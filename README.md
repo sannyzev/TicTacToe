@@ -21,25 +21,16 @@ Integrated reinforcement learning algorithms for AI decision-making.
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
+git clone https://github.com/sannyzev/TicTacToe.git
+cd TicTacToe
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the environment and train the model:
 
-bash
-Copy
-Edit
+
 python train.py
-Usage
-The trained AI can play Tic-Tac-Toe by using the trained model in model.py.
+Usage: The trained AI can play Tic-Tac-Toe by using the trained model in model.py.
 
 License
 MIT License.
